@@ -1,0 +1,22 @@
+.container {
+  background-color: aqua;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  box-shadow: 10px 10px 5px grey;
+  margin-bottom: 30px;
+}
+
+.gambar {
+  padding-left: 50px;
+  padding-bottom: 20px;
+  height: 40%;
+  width: 10%;
+}
+
+.judul {
+}
+
+.deskripsi {
+  display: inline-block;
+}
