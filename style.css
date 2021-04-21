@@ -36,6 +36,18 @@
   padding-right: 40px;
 }
 
+.container .content h2 {
+  font-size: 45px;
+  font-family: "Lucida Handwriting";
+  padding-left: 40px;
+  padding-top: 20px;
+}
+
+.container .content h4 {
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
 .judul {
   display: inline-block;
 }
@@ -50,4 +62,5 @@
   width: 100%;
   height: 40px;
   background-color: black;
+  padding-top: 20px;
 }
